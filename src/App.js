@@ -24,9 +24,11 @@ function App() {
 
 export default App; */
 
+import React from 'react';
 import CharacterCard from './CharacterCard';
-const word = "Hello"
+import './App.css';
 
+const word = "Hello"
 function App() {
   return (
     <div>
