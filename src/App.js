@@ -24,16 +24,15 @@ function App() {
 
 export default App; */
 
-import React from 'react';
-import './App.css';
-import CharacterCard from './CharacterCard'
-import WordCard from './WordCard';
-const word = "Hello"
+import "./App.css";
+import WordCard from "./components/WordCard";
+
 function App() {
   return (
-    <div>
-      <WordCard value="hello"/>
+    <div className="content">
+      <WordCard value="hello" />
     </div>
   );
 }
+
 export default App;
