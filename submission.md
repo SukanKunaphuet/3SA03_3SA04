@@ -11,12 +11,12 @@ Web Application ข้างต้นเป็น App ที่ให้เล�
 
 # หน้าจอเริ่มต้น
 
-![card game start](../card-game/backgroundinfo/card_game_start.png)
+![card game start](./card_game_start.png)
 
 # เมื่อเรียงตัวอักษรถูก
 
-![card game correct](../card-game/backgroundinfo/card_game_correct.png)
+![card game correct](./card_game_correct.png)
 
 # เมื่อเรียงตัวอักษรผิด
 
-![card game wrong](../card-game/backgroundinfo/card_game_wrong.png)
+![card game wrong](./card_game_wrong.png)
